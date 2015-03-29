@@ -1,0 +1,19 @@
+{
+  "name": "gulp-http-server",
+  "version": "1.0.0",
+  "description": "A simple http server using Gulp",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-webserver": "^0.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbasanta/gulp-http-server.git"
+  },
+  "author": "Matthew Basanta matthew.basanta@gmail.com> (http://matthewbasanta.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbasanta/gulp-http-server/issues"
+  },
+  "homepage": "https://github.com/mbasanta/gulp-http-server"
+}
